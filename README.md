@@ -3,7 +3,7 @@ ICT Student | AI engineer | Web developer
 
 I build software that makes my life easier and more time efficient.
 
-## Check out my current project: React-Cam
+## Check out my current project: Nikoäly PDF Library
 
 
 ## Connect with me
