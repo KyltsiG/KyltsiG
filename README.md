@@ -1,7 +1,7 @@
 ## Hey there I'm Oskari 👋
 ICT Student | AI engineer | Web developer
 
-I build software that makes my life easier and more time efficient. Sometimes also a little tomfoolery.
+I build software that makes my life easier and more time efficient.
 
 ## Check out my current project: React-Cam
 
