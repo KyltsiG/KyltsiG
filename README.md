@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey there I'm Oskari 👋
+ICT Student | AI engineer | Web developer
 
-<!--
-**KyltsiG/KyltsiG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software that makes my life easier and more time efficient. Sometimes also a little tomfoolery.
 
-Here are some ideas to get you started:
+## Check out my current project: React-Cam
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Connect with me
+
+- Email: oskari.ky@hotmail.com
+
+- LinkedIn: [Oskari Kyllönen](https://www.linkedin.com/in/oskari-kyll%C3%B6nen-784467332/)
