@@ -1,5 +1,5 @@
 ## Hey there I'm Oskari 👋
-ICT Student | AI engineer | Web developer
+Cybersecurity Student | AI engineer | Web developer
 
 I build software that makes my life easier and more time efficient.
 
@@ -7,9 +7,10 @@ I build software that makes my life easier and more time efficient.
 ### My Tech stack
 | Layer | Technologies |
 |---|---|
-| **Backend & Architecture** | Python, Java, FastAPI, Node.js, SQLLte, SQLModel |
-| **Frontend & User Experience** | React, Vite, CSS, HTML  |
-| **AI infrastructure** | Ollama, Llama 3, ChromaDB|
+| **Backend & Architecture** | Python, Java, FastAPI, Node.js, SQLite |
+| **Frontend & User Experience** | React, Vite, JavaScript, CSS, HTML  |
+| **AI infrastructure** | Ollama, ChromaDB, Claude |
+|**Cyber Security**| ISO 27001, NIS2, Various Kali Tools |
 
 
 ## Connect with me
