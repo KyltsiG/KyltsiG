@@ -3,7 +3,9 @@ Cybersecurity Student | AI engineer | Web developer
 
 I build software that makes my life easier and more time efficient.
 
-## Check out my current project: [Nikoäly PDF Library](https://github.com/KyltsiG/Nikoaly-PDF-library)
+Currently writing my bachelors about the cybersecurity NIS2-directive.
+
+## Check out my latest software project: [Nikoäly PDF Library](https://github.com/KyltsiG/Nikoaly-PDF-library)
 ### My Tech stack
 | Layer | Technologies |
 |---|---|
